@@ -1,0 +1,42 @@
+
+#reso{
+    margin-left: 50px ;
+}
+img{
+    width: 300px;
+}
+.arrange{
+display: flex;
+justify-content: center;
+align-items: flex-end
+}
+#réseaux{
+    background-image: url("../images/phone-checking.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    width: 300px;
+}
+#progres{
+    background-image: url("../images/sketch.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    width: 300px;
+}
+#outils{
+    background-image: url("../images/tablet-drawing.png");
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    width:300px
+}
+
+#photos{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 20px;
+}
+

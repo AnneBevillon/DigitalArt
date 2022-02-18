@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Reenie+Beanie&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shizuru&display=swap');
+body{
+    margin: 0;
+    padding: 0 30px;
+}
+#digital{
+    text-align: center;
+    font-family: 'Reenie Beanie', cursive;
+    border-style: dashed;color: #deafe0;
+    font-size: 80px;
+}
+
+#cg{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+#cg a{
+    padding: 10px;
+}
+#name span{
+    margin-right: 15px;
+    font-family: 'Shizuru', cursive;
+}
